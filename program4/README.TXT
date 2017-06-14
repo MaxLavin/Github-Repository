@@ -1,0 +1,1 @@
+This is a JAVAscript tower defense program made by Max Lavin. It is saved/compiled with greenfoot, as that was the requirement for when I made this assignment in my CS class on Javascript. The point of the game is to attack the opponents "queens chamber" with the different ants. each has a different cost, as seen in the counter, and does a different type of action. enjoy!

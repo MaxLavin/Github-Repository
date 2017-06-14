@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FireAntTest()
+comment0.text=\r\n\ Creates\ a\ new\ FireAntTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testActA()
+comment2.text=\r\n\ This\ tests\ the\ act\ when\ there\ is\ a\ bee\ and\ the\r\n\ health\ doesnt\ equal\ 0\r\n
+comment3.params=
+comment3.target=void\ testActB()
+comment3.text=\r\n\ This\ tests\ the\ act\ when\ there\ is\ a\ bee\r\n\ and\ the\ ants\ health\ is\ 0\r\n
+comment4.params=
+comment4.target=void\ testActC()
+comment4.text=\r\n\ This\ tests\ the\ act\ when\ there\ is\ no\ bee\ (present\ or\ in\ range)\r\n\ and\ the\ ant's\ healht\ isn't\ 0\r\n
+comment5.params=
+comment5.target=void\ testActD()
+comment5.text=\r\n\ This\ tests\ the\ act\ when\ the\ bee\ isnt\ in\ the\ range\r\n\ of\ the\ ant\ and\ the\ ants\ health\ is\ 0\r\n
+numComments=6

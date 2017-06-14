@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LeafTest()
+comment0.text=\r\n\ Creates\ a\ new\ LeafTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testAttackA()
+comment2.text=\r\n\ This\ tests\ the\ attack\ method\ when\ the\ leaf\ is\ \r\n\ intersecing\ the\ bee\ (bee\ health\ sould\ decrease\ by\ 1)\r\n
+comment3.params=
+comment3.target=void\ testAttackBee()
+comment3.text=\r\n\ this\ tests\ the\ attack\ method\ when\ there\ is\ no\r\n\ bee\ intersecting\ the\ leaf\r\n\ and\ the\ leaf\ isnt\ at\ the\ end\ of\ the\ line.\r\n
+comment4.params=
+comment4.target=void\ testAttackC()
+comment4.text=\r\n\ This\ tests\ the\ attack\ method\ when\ the\r\n\ leaf\ is\ at\ the\ end\ of\ the\ line\r\n
+comment5.params=
+comment5.target=void\ testActA()
+comment5.text=\r\n\ This\ tests\ the\ act\ under\ the\ same\ conditions\r\n\ as\ attackA\r\n
+comment6.params=
+comment6.target=void\ testActB()
+comment6.text=\r\n\ This\ tests\ the\ act\ under\ the\ same\ conditions\ as\r\n\ attackBee\r\n
+comment7.params=
+comment7.target=void\ testActC()
+comment7.text=\r\n\ This\ tests\ the\ act\ method\r\n\ in\ the\ same\ conditions\ as\ attackC\r\n
+numComments=8

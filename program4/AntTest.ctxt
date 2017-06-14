@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AntTest()
+comment0.text=\r\n\ Creates\ a\ new\ AntTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testGetHealth()
+comment2.text=\r\n\ This\ tests\ the\ get\ health\ method\\\r\n\ since\ it\ is\ for\ the\ ant\ superclas\r\n\ it\ should\ return\ 0\r\n
+comment3.params=
+comment3.target=void\ testInjure()
+comment3.text=\r\n\ This\ tests\ the\ injure\ method\ of\ the\ ant\r\n\ it\ should\ change\ the\ health\ to\r\n\ -1\r\n
+comment4.params=
+comment4.target=void\ testGetFoodCost()
+comment4.text=\r\n\ This\ tests\ the\ get\ food\ cost\r\n\ since\ it\ is\ the\ ant\ superclass\ \r\n\ it\ should\ return\ 0\r\n
+numComments=5

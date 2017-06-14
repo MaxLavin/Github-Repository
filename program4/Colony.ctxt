@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Colony()
+comment0.text=\r\n\ Creates\ a\ new\ Colony\ object.\r\n
+comment1.params=x\ y
+comment1.target=void\ onTouchDown(int,\ int)
+comment1.text=\r\n\ Add\ an\ ant\ to\ the\ screen\ when\ a\ specific\ location\ is\ clicked.\r\n\ This\ method\ is\ automatically\ called\ while\ the\ simulation\ is\r\n\ running,\ whenever\ the\ user\ clicks\ on\ (or\ taps\ on)\ a\ location\r\n\ in\ the\ colony\ (one\ that\ isn't\ covered\ by\ an\ actor\ already).\r\n\ \r\n\ @param\ x\ The\ x-coordinate\ of\ the\ click\r\n\ @param\ y\ The\ y-coordinate\ of\ the\ click\r\n
+comment2.params=
+comment2.target=int\ getFood()
+comment2.text=\r\n\ This\ is\ the\ return\ food\ method,\ used\ to\ check\ the\ food\ units\r\n\ @return\ \ \ the\ \#\ of\ food\ untis\r\n
+comment3.params=n
+comment3.target=void\ consumeFood(int)
+comment3.text=\r\n\ This\ is\ the\ consume\ food\ method\r\n\ it\ is\ used\ to\ subtract\ the\ food\ units\r\n\ form\ the\ colony\ for\ every\ ant\ created\r\n\ @param\ n\ \ \ the\ amount\ the\ food\ is\ decreasing\r\n
+comment4.params=n
+comment4.target=void\ addFood(int)
+comment4.text=\r\n\ This\ is\ the\ add\ food\ method,\ it\ goes\r\n\ with\ the\ harvesterant\ and\ increases\ the\r\n\ food\ for\ the\ colony\r\n\ @param\ n\ \ \ the\ amount\ the\ food\ is\ increasing\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ This\ is\ the\ act\ method\r\n
+numComments=6

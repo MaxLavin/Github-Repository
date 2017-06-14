@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ThrowerAntTest()
+comment0.text=\r\n\ Creates\ a\ new\ ThrowerAntTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testThrower()
+comment2.text=\r\n\ This\ is\ the\ test\ for\ the\ leaf\ thrower\ method\r\n
+comment3.params=
+comment3.target=void\ testActA()
+comment3.text=\r\n\ This\ tests\ the\ Act\ method.\r\n\ when\ the\ health\ of\ the\ ant\ isn't\ 0\r\n\ and\ the\ turn\ is\ allowed\ to\ run\ to\ 120\r\n
+comment4.params=
+comment4.target=void\ testActB()
+comment4.text=\r\n\ This\ tests\ when\ the\ health\ isn't\ 0\r\n\ and\ the\ turn\ isnt\ allowed\ to\ run\ to\ 120\r\n
+comment5.params=
+comment5.target=void\ testActC()
+comment5.text=\r\n\ This\ is\ the\ test\ for\ when\ the\ health\ is\ 0\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HarvesterAntTest()
+comment0.text=\r\n\ Creates\ a\ new\ HarvesterAntTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testActA()
+comment2.text=\r\n\ This\ tests\ the\ act\ when\ the\ health\ of\ the\ ant\r\n\ isn't\ 0\r\n
+comment3.params=
+comment3.target=void\ testActB()
+comment3.text=\r\n\ This\ tests\ when\ the\ health\ is\ 0\r\n
+numComments=4

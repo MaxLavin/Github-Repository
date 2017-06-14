@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HiveTest()
+comment0.text=\r\n\ Creates\ a\ new\ HiveTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testGetBees()
+comment2.text=\r\n\ This\ tests\ the\ getBees\ method\ (the\ default\ is\r\n\ set\ to\ 30)\r\n
+comment3.params=
+comment3.target=void\ testSetBees()
+comment3.text=\r\n\ this\ tests\ the\ set\ bees\ method\r\n
+comment4.params=
+comment4.target=void\ testActA()
+comment4.text=\r\n\ This\ tests\ the\ act\ method\ when\r\n\ the\ number\ of\ bees\ in\ the\ hive\ is\ 0\r\n\ \r\n
+comment5.params=
+comment5.target=void\ testActB()
+comment5.text=\r\n\ this\ tests\ the\ act\ method\ when\ bees\ is\ greater\ than\ 0\r\n\ and\ the\ turn\ isnt\ allowed\ to\ run\ to\ 400\r\n
+comment6.params=
+comment6.target=void\ testActC()
+comment6.text=\r\n\ This\ tests\ the\ act\ when\ the\ number\ of\ bees\ isnt\r\n\ 0\ and\ the\ turn\ is\ allowed\ to\ go\ to\ 400\r\n
+numComments=7
